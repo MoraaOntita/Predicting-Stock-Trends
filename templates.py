@@ -22,7 +22,7 @@ list_of_files = [
     "params.yaml",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipynb",
+    "notebooks/data_ingestion.ipynb",
     "templates/index.html"
 
 
