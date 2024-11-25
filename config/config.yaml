@@ -1,0 +1,5 @@
+data_ingestion:
+  root_dir: "/home/moraa-ontita/Documents/Machine-learning/Stock_Price_Prediction"
+  raw_data_path: "artifacts/data_ingestion/SP500_historical_data.csv"
+  start_date: "2000-01-01"
+  end_date: "2023-11-01"
